@@ -40,7 +40,6 @@
      <br>
       <br>
 
-![Snake animation](https://github.com/{{ahmed-faroukk}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
 
 
