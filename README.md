@@ -12,9 +12,9 @@
  :speech_balloon: Ask me about (Android, Kotlin, Java) 
 
  
-<a href="https://twitter.com/https://twitter.com/ahmedfaarouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ahmedfaarouk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-farouk-2b1899204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-farouk-2b1899204/" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/https://twitter.com/ahmedfaarouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ahmedfaarouk" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-farouk-2b1899204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-farouk-2b1899204/" height="20" width="20" /></a>
+<br>
 <br>
 
 #  📈 GitHub Stats
