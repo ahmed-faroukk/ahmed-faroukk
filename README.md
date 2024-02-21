@@ -7,7 +7,6 @@
 
  ◾ A passionate Self-taught Native Android developer<br>
  ◾ Currently learning Mobile Development by Self<br>
- ◾ I’m currently open for an Intern or a new job opportunity<br>
  
  :speech_balloon: Ask me about (Android, Kotlin, Java) 
 
