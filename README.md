@@ -5,7 +5,7 @@
 
 # About me 
 
- ◾ A passionate Self-taught Native Android developer<br>
+ ◾ A passionate Self-taught Software<br>
  ◾ Currently Mobile developer at Ertaqy
  
  :speech_balloon: Ask me about (Android, Kotlin, Java) 
